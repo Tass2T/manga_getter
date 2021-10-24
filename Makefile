@@ -19,4 +19,4 @@ clean:
 	rm -rf *.o
 
 destroy:
-	rm parser
+	rm -rf parser ./manga_lib/*
